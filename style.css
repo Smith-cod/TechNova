@@ -266,12 +266,12 @@ footer p {
     font-weight: bold;
     text-align: center;
   }
+    footer{
+      display:grid;
+    }
   .foot {
     gap: 20px;
     display: grid;
-  }
-  #foot-contact {
-    display: ;
   }
   .foot a {
     font-size: 0.9rem;
@@ -323,12 +323,12 @@ footer p {
     padding: 10px 20px;
     font-size: 1.1rem;
   }
+  footer{
+    display:grid;
+  }
   .foot {
     gap: 20px;
     display: grid;
-  }
-  #foot-contact {
-    display: ;
   }
   .foot a {
     font-size: 0.9rem;
@@ -337,6 +337,7 @@ footer p {
     font-size: 1rem;
   }
 }
+
 
 
 
