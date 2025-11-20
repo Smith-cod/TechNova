@@ -255,7 +255,7 @@ footer p {
   .projects p {
     font-size: 1.1rem;
     margin-left: 8px;
-    width: 80%;
+    width: 100%;
   }
   #btn {
     margin: 40px 10px;
@@ -320,6 +320,7 @@ footer p {
     font-size: 1.1rem;
   }
 }
+
 
 
 
