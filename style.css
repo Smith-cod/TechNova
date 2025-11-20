@@ -231,7 +231,6 @@ footer p {
     display: grid;
     margin-left: 5px;
     width: 70%;
-    border-left: 10px red solid;
   }
   .illustration {
     display: none;
@@ -327,6 +326,7 @@ footer p {
     font-size: 1.1rem;
   }
 }
+
 
 
 
