@@ -27,6 +27,7 @@ header {
   height: 70px;
   width: 100%;
   background-color: #ffffff;
+  position:sticky;
   top: 0;
   border-bottom: 3px solid red;
 }
@@ -304,12 +305,16 @@ footer p {
   }
   .devWebMobile p,
   .uiUX p,
-  .graphIdVisuel p,
-  .choice p,
-  .projects p {
-    font-size: 1.1rem;
+  .graphIdVisuel p {
+    font-size: 1.2rem;
     margin-left: 8px;
     width: 59%;
+  }
+  .choice p,
+  .projects p {
+    font-size: 1.2rem;
+    margin-left: 8px;
+    width:80%;
   }
   .illustration {
     height: 200px;
@@ -321,6 +326,7 @@ footer p {
     font-size: 1.1rem;
   }
 }
+
 
 
 
