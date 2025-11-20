@@ -306,18 +306,19 @@ footer p {
   .graphIdVisuel p,
   .choice p,
   .projects p {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     margin-left: 8px;
-    width: 60%;
+    width: 55%;
   }
   .illustration {
     height: 200px;
     width: 300px;
   }
   #btn {
-    margin: 60px;
+    margin: 60px 5px;
     padding: 10px 20px;
     font-size: 1.1rem;
   }
 }
+
 
