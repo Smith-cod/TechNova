@@ -92,7 +92,7 @@ main h2 {
   justify-items: start;
   margin-top: 3px;
   margin-bottom: 30px;
-  margin-left: 90px;
+  margin-left: 20px;
   width: 90%;
 }
 #container {
@@ -107,7 +107,7 @@ main h2 {
   font-size: 1.8rem;
   color: red;
   padding-left: 10px;
-  margin-left: 50px;
+  margin-left: 10px;
   margin-bottom: 5px;
 }
 .uiUX h5 {
@@ -117,7 +117,7 @@ main h2 {
   font-size: 1.8rem;
   color: red;
   padding-left: 10px;
-  margin-left: 200px;
+  margin-left: 100px;
   margin-bottom: 5px;
 }
 .devWebMobile p,
@@ -129,7 +129,7 @@ main h2 {
   font-size: 1.5rem;
   padding: 10px;
   margin-left: 20px;
-  margin-top: 0px;
+  margin-top: 5px;
 }
 #btn {
   text-align: center;
@@ -201,7 +201,6 @@ footer p {
 @media screen and (max-width: 768px) {
   body {
     width: 100vw;
-    margin-left: 0;
   }
   p {
     font-size: 1.2rem;
@@ -209,7 +208,6 @@ footer p {
   }
   span {
     display: grid;
-    grid-auto-flow: row;
   }
   p {
     font-size: 1.2rem;
@@ -245,7 +243,7 @@ footer p {
   .graphIdVisuel h5,
   .val-container h5,
   .uiUX h5 {
-    margin-left: 10px;
+    margin-left: 5px;
     font-size: 1.1rem;
   }
   .devWebMobile p,
@@ -314,7 +312,7 @@ footer p {
   .projects p {
     font-size: 1.2rem;
     margin-left: 8px;
-    width:85%;
+    width:90%;
   }
   .illustration {
     height: 200px;
@@ -326,6 +324,7 @@ footer p {
     font-size: 1.1rem;
   }
 }
+
 
 
 
