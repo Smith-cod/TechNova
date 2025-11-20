@@ -229,8 +229,8 @@ footer p {
   .graphIdVisuel,
   .val-container {
     display: grid;
-    margin-left: 20px;
-    width: 80vw;
+    margin-left: 5px;
+    width: 70%;
     border-left: 10px red solid;
   }
   .illustration {
@@ -246,20 +246,24 @@ footer p {
   .graphIdVisuel h5,
   .val-container h5,
   .uiUX h5 {
-    margin-left: 15px;
-    font-size: 1.2rem;
+    margin-left: 10px;
+    font-size: 1.1rem;
   }
   .devWebMobile p,
   .uiUX p,
   .graphIdVisuel p,
+   {
+    font-size: 1.1rem;
+    margin-left: 8px;
+    width: 40%;
+  }
   .choice p,
   .projects p {
     font-size: 1.1rem;
     margin-left: 8px;
-    width: 100%;
-  }
+    width:85%;
   #btn {
-    margin: 40px 10px;
+    margin: 30px 5px;
     padding: 8px 10px;
     font-size: 1rem;
     font-weight: bold;
@@ -296,8 +300,8 @@ footer p {
     width: 90%;
   }
   .devWebMobile h5,
-  .graphIdVisuel h5, {
-  .uiUX h5
+  .graphIdVisuel h5, 
+  .uiUX h5{
     font-size: 1.3rem;
   }
   .devWebMobile p,
@@ -323,6 +327,7 @@ footer p {
     font-size: 1.1rem;
   }
 }
+
 
 
 
