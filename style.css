@@ -14,6 +14,10 @@ p {
   margin-right: 40px;
   border-radius: 5px;
   border: 2px solid red;
+  border-right: 3px solid rgb(2, 2, 92);
+  border-radius: 0px 10px 10px 00px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+  border-left: 15px red solid;
   /* animation: fadeIn 2s ease-in-out;
   animation-timeline: view(); */
 }
@@ -90,10 +94,6 @@ main h2 {
   margin-bottom: 30px;
   margin-left: 90px;
   width: 90%;
-  border-right: 3px solid rgb(2, 2, 92);
-  border-radius: 0px 10px 10px 00px;
-  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
-  border-left: 15px red solid;
 }
 #container {
   display: flex;
@@ -327,6 +327,7 @@ footer p {
     font-size: 1.1rem;
   }
 }
+
 
 
 
