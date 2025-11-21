@@ -201,7 +201,7 @@ footer p {
 }
 @mesia screen and (max-width:480px) {
  body {
-    width: 80%;
+    width: 80vw;
   }
   p {
     font-size: 1.1rem;
@@ -279,7 +279,7 @@ footer p {
 }
 @media screen and (max-width: 768px) {
   body {
-    width: 90%;
+    width: 90w;
   }
   p {
     font-size: 1.2rem;
@@ -360,6 +360,9 @@ footer p {
   }
 }
 @media screen and (max-width: 1024px) {
+  body{
+    width:100vw
+  }
   p {
     font-size: 1.1rem;
   }
@@ -373,19 +376,20 @@ footer p {
   .val-container {
     display:grid;
     margin-left: 10px;
-    width: 90%;
+    width: 50%;
   }
   .devWebMobile h5,
   .graphIdVisuel h5, 
   .uiUX h5{
     font-size: 1.3rem;
+    margin-bottom:5px;
   }
   .devWebMobile p,
   .uiUX p,
   .graphIdVisuel p {
     font-size: 1.2rem;
     margin-left: 8px;
-    width: 59%;
+    width: 30%;
   }
   .choice p,
   .projects p {
@@ -394,12 +398,12 @@ footer p {
     width:85%;
   }
   .illustration {
-    height: 200px;
-    width: 300px;
+    height: 40px;
+    width: 80px;
   }
   #btn {
-    margin: 40px 5px;
-    padding: 10px 20px;
+    margin: 30px 5px;
+    padding: 10px 15px;
     font-size: 1.1rem;
   }
   footer{
@@ -416,6 +420,7 @@ footer p {
     font-size: 1rem;
   }
 }
+
 
 
 
