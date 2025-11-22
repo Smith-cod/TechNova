@@ -282,7 +282,7 @@ footer p {
     font-size: 1rem;
   }
 }
-@media screen and (max-width: 2580px) {
+@media screen and (max-width: 1024px) {
   p {
     font-size: 1.1rem;
   }
@@ -327,5 +327,9 @@ footer p {
     footer p{
       padding:3px;
 }
-
+@media screen and (max-width: 1024px){
+.illustration{
+display none;
+}
+}
 
