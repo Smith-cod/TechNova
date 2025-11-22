@@ -318,6 +318,7 @@ footer p {
   .illustration {
     height: 200px;
     width: 300px;
+    display:none;
   }
   #btn {
     margin: 60px 5px;
@@ -330,6 +331,12 @@ footer p {
 @media screen and (max-width: 2580px){
 .illustration{
 display: none;
+}
+.foot {
+  display: flex;
+  gap: 15px;
+  margin-right: 20px;
+  margin-top: 20px;
 }
 }
 
