@@ -323,6 +323,12 @@ footer p {
     padding: 10px 20px;
     font-size: 1.1rem;
   }
+.foot {
+  display: grid;
+  gap: 15px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
     footer p{
       padding:3px;
 }
@@ -332,7 +338,7 @@ footer p {
 display: none;
 }
 .foot {
-  display: flex;
+  display: grid;
   gap: 15px;
   margin-right: 20px;
   margin-top: 20px;
