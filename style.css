@@ -101,6 +101,7 @@ main h2 {
 }
 .devWebMobile h5,
 .graphIdVisuel h5,
+.uiUX h5,
 .val-container h5 {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 1.8rem;
@@ -109,16 +110,7 @@ main h2 {
   margin-left: 50px;
   margin-bottom: 5px;
 }
-.uiUX h5 {
-  display: grid;
-  justify-content: end;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 1.8rem;
-  color: red;
-  padding-left: 10px;
-  margin-left: 40rem;
-  margin-bottom: 5px;
-}
+.uiUX h5
 .devWebMobile p,
 .uiUX p,
 .graphIdVisuel p,
